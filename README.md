@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Soy Manuel Zuñiga</h1>
-<h3 align="center">Desarrollador frontend y backend viviendo en Argentina</h3>
+<h1 align="center">Hi 👋, I'm Manuel Zuñiga</h1>
+<h3 align="center">A passionate frontend and backend developer from Argentina</h3>
 
 
 # 💫 About Me:
-<h1 align="center">🔭 Actualmente trabajando para Andromeda App <br>👯 Colabore en Promanitas App<br>🌱 Siempre aprendiendo<br>⚡ Siempre activo </h1>
+<h1 align="center">🔭 Currently working for Andromeda App <br>👯 Collaborated on Promanitas App<br>🌱 Always learning<br>⚡ Always active </h1>
 
 
 ## 🌐 Socials:
