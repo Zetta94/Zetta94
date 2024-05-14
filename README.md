@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<h1 align="center">🔭 Currently working for Andromeda App <br>👯 Collaborated on Promanitas App<br>🌱 Always learning<br>⚡ Always active </h1>
+<h1 align="center"><br> ⚡Collaborated on Andrómeda<br>⚡ Always learning<br>⚡ Always active </h1>
 
 
 ## 🌐 Socials:
