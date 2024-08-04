@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manuel Zuñiga</h1>
+<h1 align="center">👋 Hi, I'm Manuel Zuñiga</h1>
 <h3 align="center">A passionate Backend and Frontend developer from Argentina</h3>
 
 
 # 💫 About Me:
-<h3>Software developer with over 2 years of experience in developing web and mobile applications using React, React Native, and Node.js. I have a solid understanding of various libraries and frameworks, which allows me to create efficient and scalable solutions. I am always looking to learn and adopt new technologies to improve my skills and deliver better products.</h3>
+<h2>⚡ Software developer with over 2 years of experience in developing web and mobile applications using React, React Native, and Node.js. I have a solid understanding of various libraries and frameworks, which allows me to create efficient and scalable solutions. I am always looking to learn and adopt new technologies to improve my skills and deliver better products.</h2>
 </br>
-<h1 align="center">⚡ Always learning<br>⚡ Always active </h1>
 
 
 ## 🌐 Socials:
