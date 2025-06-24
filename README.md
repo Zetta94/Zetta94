@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Backend and Frontend developer from Argentina</h3>
 
 # 💫 About Me:
-<h4>⚡ Software developer with over 2+ years of experience in developing web and mobile applications using React, React Native, and Node.js. I have a solid understanding of various libraries and frameworks, which allows me to create efficient and scalable solutions. I am always looking to learn and adopt new technologies to improve my skills and deliver better products.</h4>
+<h4>⚡ Software developer with over 3 years of experience, specializing in backend with Node.js, Express, and Prisma, and with strong knowledge in frontend with React, TypeScript, and HTML/CSS. Throughout my career, I have worked in agile environments, collaborating with multidisciplinary teams to build scalable, maintainable, and mobile-oriented solutions (responsive design).
+
+I have used technologies such as Mongoose, Sequelize, Supabase, bcryptjs, jsonwebtoken, multer, and Ethers, as well as collaborative tools like GitHub, Trello, ClickUp, and Postman. I also have experience with SQL and NoSQL databases such as PostgreSQL and MongoDB.
+
+I stand out for my problem-solving approach, commitment to quality, and proactivity. I have knowledge of best practices such as Clean Code, testing, and scalable architecture. I am currently pursuing a Software Development Technician degree and improving my English and interest in deployment platforms like Docker and OpenShift to perform in international environments.</h4>
 </br>
 
 ## 🌐 Socials:
