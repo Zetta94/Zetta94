@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mí
 
-🔧 Cuento on más de 3 años de experiencia comprobable trabajando con **Node.js**, **Express** y **Prisma**.
+🔧 Cuento con más de 3 años de experiencia comprobable trabajando con **Node.js**, **Express** y **Prisma**.
 
 🧠 Me caracterizo por resolver problemas reales aplicando **Clean Code**, buenas prácticas, arquitectura escalable y trabajo colaborativo.
 
