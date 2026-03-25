@@ -1,5 +1,7 @@
 <h1 align="center">Hola, soy Manuel Zuñiga 👋</h1>
-<h3 align="center">Desarrollador de Software Full Stack apasionado por construir soluciones útiles, escalables y de calidad.</h3>
+<h3 align="center">Desarrollador backend enfocado en construcción de APIs, procesamiento de datos y optimización de consultas en entornos productivos.
+
+Trabajo principalmente con Node.js, TypeScript y bases de datos como Oracle, PostgreSQL y SQL Server.</h3>
 
 ---
 
